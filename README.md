@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi, I'm not a developer
+0% experience in C++
+0% experience in Python
+0% experience in Developing
+Thank you for visiting this profile
+you won't find anything useful in here
 
 <!--
 **AsentrixV/AsentrixV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
